@@ -3,12 +3,16 @@ body {
 	max-width: 50em;
 	font-family: "Helvetica", "Arial", sans-serif;
 	line-height: 1.5;
-	padding: 4em 1em 4em 1em;
+	padding: 0em 1em 4em 1em;
 	color: #555;
 }
 
 h1, h2, strong {
 	color: #333;
+}
+
+h1 {
+	color: #FFF;
 }
 
 h2 {
@@ -32,5 +36,17 @@ pre {
 
 
 a {
-	color: #e81c4f;
+	color: #ffff00;
+}
+
+header {
+	background-color: #333;
+	background-image: url("Images/image.jpg");
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-size:cover;
+	line-height: 1.2;
+	padding: 2em;
+	text-align: center;
+
 }
