@@ -18,13 +18,18 @@ h2 {
 }
 
 code, pre {
-	background: #eee;
+	background: #f5f7f9;
 
 }
 
 pre {
 	padding: 1em;
+	background; #f5f7f9;
+	border-bottom: 1px solid #d8dee9;
+	border-left: 2px solid #69c;
+	color" #a7adba
 }
+
 
 a {
 	color: #e81c4f;
