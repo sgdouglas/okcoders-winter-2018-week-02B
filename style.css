@@ -37,6 +37,8 @@ pre {
 
 a {
 	color: #ffff00;
+	style: bold;
+	font-size: 18pt;
 }
 
 header {
